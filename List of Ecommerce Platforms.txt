@@ -1,0 +1,190 @@
+Amazon
+Magento 
+OpenCart
+Shopware
+osCommerce
+PrestaShop 
+Mobility Ecommerce 
+Shopify 
+Bigcommerce    
+Volusion      
+Woocommerce      
+LemonStand     
+Squarespace Commerce    
+PinnacleCart
+Big Cartel
+Ecwid   
+3DCart  
+Magento
+Merchium
+SellBeing 
+SpreeCommerce
+X-Cart
+Supadupa.me
+Sylius
+TomatoCart
+VirtueMart
+Yola
+IBM WebSphere Commerce
+2Checkout
+Wazala
+AbleCommerce
+Actinic
+Airsquare
+AShop
+Avactis
+Avangate
+BroadLeaf Commerce
+Commercev3
+CS-Cart
+Demandware
+Digital River Global Commerce
+eCrater
+Celery
+FastSpring
+FoxyCart
+Intershop
+Ixxo cart
+Jadasite
+Jimdo
+Jooy
+Kalio
+KonaKart
+LightCMS
+Marketlive
+Miva Merchant
+Moonfruit
+SparkPay
+Mozu
+nopCommerce
+OpenCart
+osCMax
+OS Commerce
+PrestaShop
+ProductCart
+Sana Commerce
+SearchFit
+ShopGo
+Shopping Cart Elite
+Shopio
+Shopizer
+Softslate
+Storenvy
+SureDone
+Tea Commerce
+Kong
+uCoz
+UltraCart
+AllProWebTools.com
+Pimcore
+ZenCart
+ZNOde Storefront
+Cart66
+Drupal Commerce
+GoECart
+IndieMade
+Neto
+MadeFreshly
+Moltin
+Selz
+Yahoo Store
+Tictail
+Jigoshop
+CleverBridge
+CoreCommerce
+Etsy
+IceSho
+AspDotNetStorefront
+Netsuite SuiteCommerce
+Yovigo
+E-bee
+Flying Cart
+Goodsie
+BlueSnap
+HotCakesCommerce
+Hybris
+Jumpseller
+CubeCart
+Turnkey Web Tools
+SquirrelCart
+LiveCart
+ShopFactory
+simpleCart
+Vendio
+DPD
+InstanteStore
+ShopSite
+ViArt
+ShopVisible
+Fortune3
+ShopTab
+InfusionSoft
+mShopper
+OXID eSales
+Ktools
+Kooomo
+PowerStores
+GoLiveCart
+Clarity Ecommerce
+1AutomationWiz Ecommerce
+My Cloud Grocer
+HighWire
+Wix
+Smoolis
+Easy Digital Downloads
+Modular Merchant
+Gumroad
+Weebly
+ExlCart
+GoDaddy
+Mr Site
+Persollo
+RocketSpark
+Schema
+PayPro Global
+FlickRocket
+Ecommerce Templates
+ShopRocket
+SnipCart
+Kentico
+VevoCart
+k-eCommerce
+BV Commerce
+Eonic
+Shopcloud.io
+Eshopsgalore
+Expandly
+Fashmark
+Shout CMS
+VeraCart
+UnieMerchant
+Nexternal
+Vilkas Group
+eStoreAdvanced
+Aplus
+SideCommerce
+Spryker
+Stiva Shopping Cart
+Thelia
+Easy Cart 
+Upshot Commerce
+VirtoCommerce
+Loaded Commerce
+AbanteCart
+ItemHut
+GoCart
+SolidCommerce
+GrandNode
+MongoDB.
+UberCart
+LiteCommerce
+Shoop.io
+Arastta
+YesCart
+VP -
+SolidShops
+eCRATER
+Yokaboo
+ZeusCArt
+Cart42
+SamCart
